@@ -1,0 +1,24 @@
+{
+    "name": "ArcadeShooter.Systems",
+    "rootNamespace": "ArcadeShooter.Systems",
+    "references": [
+        "ArcadeShooter.Data",
+        "ArcadeShooter.Core",
+        "Unity.Entities",
+        "Unity.Physics",
+        "Unity.Collections",
+        "Unity.Mathematics",
+        "Unity.Burst",
+        "Unity.Transforms",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

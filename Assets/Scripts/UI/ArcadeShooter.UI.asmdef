@@ -1,0 +1,24 @@
+{
+    "name": "ArcadeShooter.UI",
+    "rootNamespace": "ArcadeShooter.UI",
+    "references": [
+        "ArcadeShooter.Data",
+        "ArcadeShooter.Common",
+        "Unity.TextMeshPro",
+        "Unity.UGUI",
+        "Unity.Entities",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "Unity.Burst",
+        "Unity.Transforms"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
